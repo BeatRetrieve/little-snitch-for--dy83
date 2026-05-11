@@ -1,4 +1,4 @@
-
+rare Plugin for Little Snitch for macOS - VPN-integration and password-generator offers the most advanced Little Snitch for macOS plugin, with VPN-integration and
 
 
 
